@@ -14,7 +14,10 @@
 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
 
-React.js, Next js, typeScript.
+Next.js
+React.js
+TypeScript
+StyledComponents
  
 📕 Instalação
 Pré-requisitos
