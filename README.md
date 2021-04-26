@@ -1,5 +1,7 @@
 # semana-nlw-05
 
+![image](https://user-images.githubusercontent.com/47925586/116133937-adc33c00-a6a5-11eb-912b-e8c3d772da06.png)
+
 
 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
